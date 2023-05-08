@@ -1,3 +1,4 @@
+package Atividade_08_05;
 public class Lebre implements Presa {
     @Override
     public void Fugir(){

@@ -1,3 +1,4 @@
+package Atividade_08_05;
 public class Escorpiao implements Predador {
 
     @Override
